@@ -1,0 +1,91 @@
+.img {
+    width: 200px;
+    height: 59px;
+}
+
+.top-container {
+    background-color: #F0FFF0;
+    /* height: 550px; */
+    padding: 0 50px 60px;
+    margin-bottom: 5%;
+
+}
+
+.btn-success {
+    border-radius: 20px;
+    padding: 4px 20px;
+}
+
+.student-count {
+    width: 66px;
+    height: 85px;
+}
+
+/* .student-count {
+    background-color: #F0FFF0;
+} */
+
+.student-div {
+    background-color: #F0FFF0;
+    padding: 12%;
+    margin-bottom: 15%;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 10px 20px lightcyan;
+}
+
+.student-div:hover {
+    background: linear-gradient(45deg, #ffd1e5, #F0FFF0);
+}
+
+/* courses */
+/* .course-img {
+    width: 331px;
+    height: 234px;
+
+} */
+/* .course-content {
+    padding: 15%;
+} */
+
+/* .course-image {
+    height: 234px;
+    width: 331px;
+    /* padding: 3%; */
+/* align-items: center; 
+      /* }  */
+
+.course-img {
+    /* align-items: center; */
+    /* padding: 1%; */
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 10px 20px lightcyan;
+
+
+}
+
+.course-div {
+    margin-bottom: 7%;
+}
+
+.card-footer {
+    background-color: white;
+    border: none;
+}
+
+.people-margin {
+    margin-left: 10;
+}
+
+.testimonial-man {
+    height: 120px;
+    width: 120px;
+    border-radius: 50px;
+    /* align-items: center; */
+    margin-left: 72%;
+}
+
+.testimonial-div {
+    margin: 5%;
+}
