@@ -1,3 +1,4 @@
+/* Top sectiopn */
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -9,12 +10,9 @@ body {
 }
 
 .top-container {
-    /* background-color: #F0FFF0; */
-    /* height: 550px; */
     background: linear-gradient(45deg, #fddefc, #F0FFF0);
     padding: 0 50px 60px;
     margin-bottom: 5%;
-
 }
 
 .top-container:hover {
@@ -40,13 +38,8 @@ body {
     height: 85px;
 }
 
-/* .student-count {
-    background-color: #F0FFF0;
-} */
-
 .student-div {
     background-color: #F0FFF0;
-    /* background: linear-gradient(45deg, #fddefc, #F0FFF0); */
     padding: 12%;
     margin-bottom: 15%;
     border-radius: 10px;
@@ -59,38 +52,15 @@ body {
 }
 
 /* courses SECTION */
-
-
-
-/* .course-img {
-    width: 331px;
-    height: 234px;
-
-} */
-/* .course-content {
-    padding: 15%;
-} */
-
-/* .course-image {
-    height: 234px;
-    width: 331px;
-    /* padding: 3%; */
-/* align-items: center; 
-      /* }  */
-
 .course-img {
-    /* align-items: center; */
-    /* padding: 1%; */
+
     border-radius: 10px;
     border: none;
     box-shadow: 5px 10px 20px lightcyan;
-
-
 }
 
 .course-img:hover {
     background: linear-gradient(45deg, #fed3ff, #eeffff);
-
 }
 
 .course-div:hover {
@@ -115,38 +85,16 @@ body {
 }
 
 /* TESTIMONIAL SECTION */
-
-
 .testimonial-man {
     height: 200px;
     width: 200px;
     border-radius: 10px;
     border: none;
-    /* box-shadow: 1px 1px 5px lightcyan;
-    box-sizing: border-box; */
-    /* align-items: center; */
-    /* margin-left: 45%; */
 }
 
 .testimonial-div {
     margin: 5%;
 }
-
-/* .col-md-4 {
-    text-align: center;
-} */
-
-
-
-
-
-/* .col-md-8 {
-    text-align: left;
-} */
-
-/* .col-sm-12 {
-    text-align: center;
-} */
 
 .list-group {
     border: none;
@@ -169,8 +117,6 @@ body {
     padding: 40px 50px 1px;
     border-radius: 20px;
     box-shadow: 5px 10px 20px rgb(173, 234, 253);
-
-
 }
 
 .container-bottom h6 {
@@ -197,31 +143,24 @@ body {
 }
 
 
-/* CONTAC SECTION */
+/* CONTACT SECTION */
 
 .contact-bg {
-    /* background: #F0FFF0; */
+
     border-radius: 10px;
     margin: 30px auto;
-    /* box-shadow: 1px 2px 7px rgb(173, 234, 253); */
-    background: linear-gradient(45deg, #fddefc, #F0FFF0);
 
+    background: linear-gradient(45deg, #fddefc, #F0FFF0);
 }
 
 .contact-bg:hover {
     background: linear-gradient(45deg, #ffebda, #F0FFF0);
 }
 
-/* .section-title {
-    margin: 20px auto 20px;
-
-} */
-/* download-app */
+/* App Download  */
 #download-app {
     padding: 20% auto;
     background: linear-gradient(45deg, #d9ddff, #F0FFF0);
-    /* padding-top: 50px;
-    padding-bottom: 50px; */
     padding: 3%;
     text-align: center;
     border-radius: 10px;
@@ -231,6 +170,12 @@ body {
     background: linear-gradient(45deg, #efdcff, #c4fff5);
 }
 
+.download-button {
+    margin: 2% auto 0 1%;
+}
+
+
+/* Footer*/
 .social-icon {
     margin: 20px 10px;
 }
